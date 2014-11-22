@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DroidCon.iml" filepath="$PROJECT_DIR$/DroidCon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParseStarterProject.iml" filepath="$PROJECT_DIR$/ParseStarterProject.iml" />
     </modules>
   </component>
 </project>
